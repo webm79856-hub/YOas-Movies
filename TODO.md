@@ -1,0 +1,2 @@
+- [x] Add gap: 10px to .row for spacing between columns
+- [x] Change .column img to width: 100% and height: auto
